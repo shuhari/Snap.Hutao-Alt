@@ -1,3 +1,10 @@
+# Fork 版本修改内容
+
+* 背景图源设置为每日一图时，每日会自动更新背景，不必关闭程序或修改设置
+
+=======================================
+
+
 ![HutaoRepoBanner3-en](https://github.com/DGP-Studio/Snap.Hutao/assets/10614984/7289da68-59cf-409b-bd85-4b5a01d0c091)
 
 
